@@ -41,6 +41,3 @@ python3 piplant_ai.py
 ## 📷 Optional
 
 Connect a PiCamera to enable plant timelapse snapshots, stored in the `snapshots/` directory.
-
-
-Happy planting! 🌱
